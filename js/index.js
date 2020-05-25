@@ -27,6 +27,7 @@ leftMenu.addEventListener('click',(event) => {
 // homework
 
 // test
+// проверка свзи !!!!
 
 
 mouseOverListener = (e) =>{
