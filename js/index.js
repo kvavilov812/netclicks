@@ -26,6 +26,7 @@ leftMenu.addEventListener('click',(event) => {
 
 
 // test
+// проверка свзи !!!!
 
 mouseOverListener = (e) =>{
     const img = e.target.parentElement.querySelector('.tv-card__img');
