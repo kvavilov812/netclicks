@@ -11,7 +11,6 @@ document.addEventListener('click',(event) =>{
         leftMenu.classList.remove('openMenu');
         hamburger.classList.remove('open');
     }
-    
 });
 
 
