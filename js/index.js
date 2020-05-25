@@ -24,12 +24,10 @@ leftMenu.addEventListener('click',(event) => {
     }
 });
 
-<<<<<<< HEAD
 // homework
-=======
 
 // test
->>>>>>> second
+
 
 mouseOverListener = (e) =>{
     const img = e.target.parentElement.querySelector('.tv-card__img');
